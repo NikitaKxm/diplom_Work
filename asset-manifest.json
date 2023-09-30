@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/diplom_Work.git/static/css/main.72eb88cf.css",
+    "main.js": "/diplom_Work.git/static/js/main.cdfe0917.js",
+    "static/media/meals.jpg": "/diplom_Work.git/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/diplom_Work.git/index.html",
+    "main.72eb88cf.css.map": "/diplom_Work.git/static/css/main.72eb88cf.css.map",
+    "main.cdfe0917.js.map": "/diplom_Work.git/static/js/main.cdfe0917.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72eb88cf.css",
+    "static/js/main.cdfe0917.js"
+  ]
+}
